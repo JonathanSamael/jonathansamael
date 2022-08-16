@@ -20,10 +20,10 @@ ________________________________________________________________________________
   <a href="https://www.linkedin.com/in/jonathan-amaral/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div><br>
 
-<div style="display: inline">
+<div>
   <a href="https://github.com/jonathansamael">
-  <img heigth="110em" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img heigth="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&layout=compact&langs_count=6&theme=panda"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&layout=compact&langs_count=6&theme=panda"/>
 </div>
 
 
