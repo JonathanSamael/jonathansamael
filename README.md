@@ -22,8 +22,8 @@ ________________________________________________________________________________
 
 <div style="display: block">
   <a href="https://github.com/jonathansamael">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&layout=compact&langs_count=6&theme=panda"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&layout=compact&langs_count=6&theme=panda"/>
 </div>
 
 
