@@ -1,7 +1,7 @@
 <h2><pre>Hello 🌻 
 I'm Jonathan Samael ✌️ </pre></h2> 
 
-_________________________________________________________________________________
+***
 <p> I'm a Dev, learning a little bit every day! 💻🗺️</p>
 
 I'm currently learning: 
@@ -11,8 +11,7 @@ I'm currently learning:
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">      
 </div><br>
-
-__________________________________________________________________________________
+***
 <h3>🪄 Social media's 🪄</h3>
 <div> 
  <a href="https://www.instagram.com/jonathan_samael_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
