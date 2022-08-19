@@ -11,7 +11,9 @@ I'm currently learning:
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">      
 </div><br>
+
 ***
+
 <h3>🪄 Social media's 🪄</h3>
 <div> 
  <a href="https://www.instagram.com/jonathan_samael_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,6 +27,11 @@ I'm currently learning:
   <img width="345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSamael&layout=compact&langs_count=6&theme=panda">
 </div>
 
+ ***
+  
+  🧩 _Fun fact_ 🧩
+  I'm a gamer and a cyclist!
+  I love playing video games and cycling is my favorite outdoor activity.
 
 <!--
 **JonathanSamael/jonathansamael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
