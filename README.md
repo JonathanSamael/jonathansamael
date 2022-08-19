@@ -1,5 +1,5 @@
-<h2><pre>Hello 🌻 
-I'm Jonathan Samael ✌️ </pre></h2> 
+<h1><pre>Hello 🌻 
+I'm Jonathan Samael ✌️ </pre></h1> 
 
 ***
 <p> I'm a Dev, learning a little bit every day! 💻🗺️</p>
@@ -14,7 +14,7 @@ I'm currently learning:
 
 ***
 
-<h3>🪄 Social media's 🪄</h3>
+<h2>🪄 Social media's 🪄</h2>
 <div> 
  <a href="https://www.instagram.com/jonathan_samael_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="mailto:jonathansamael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -29,8 +29,8 @@ I'm currently learning:
 
  ***
   
-  🧩 _Fun fact_ 🧩
-  I'm a gamer and a cyclist!
+  🧩 <h3>Fun fact</h3> 🧩
+  I'm a gamer and a cyclist!<br>
   I love playing video games and cycling is my favorite outdoor activity.
 
 <!--
