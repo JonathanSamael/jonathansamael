@@ -1,5 +1,5 @@
-<h2><pre>Hello 🌻 
-I'm Jonathan Samael ✌️ </pre></h2> 
+:<h2><pre>Hello 🌻
+I'm Jonathan Samael ✌️ </pre></h2> :
 
 <p> I'm a Dev, learning a little bit every day! 💻🗺️</p>
 
