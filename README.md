@@ -1,9 +1,9 @@
-<center><h2><pre>Hello 🌻
-I'm Jonathan Samael ✌️ </pre></h2></center>
+<h2><pre>Hello 🌻
+I'm Jonathan Samael ✌️ </pre></h2>
 
 <p> I'm a Dev, learning a little bit every day! 💻🗺️</p>
 
-:I'm currently learning: :
+<center>I'm currently learning:</center>
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
