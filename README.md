@@ -1,10 +1,10 @@
 <h2 align="center"><pre>Hello 🌻
 I'm Jonathan Samael ✌️ </pre></h2>
 
-<p> I'm a Dev, learning a little bit every day! 💻🗺️</p>
+<p align="center"> I'm a Dev, learning a little bit every day! 💻🗺️</p>
 
-I'm currently learning:
-<div style="display: inline_block">
+<p align="center">I'm currently learning:</p>
+<div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">  
