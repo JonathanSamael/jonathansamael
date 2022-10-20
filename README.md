@@ -21,8 +21,8 @@ I'm Jonathan Samael ✌️ </pre></h2>
 
 <div>
   <a href="https://github.com/jonathansamael">
-  <img width="350rem" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img width="410rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSamael&layout=compact&langs_count=6&theme=panda">
+  <img width="380rem" src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanSamael&layout=compact&langs_count=6&theme=panda">
 </div>
 
  ***
