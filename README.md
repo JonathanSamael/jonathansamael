@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Samael
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>
+My name is Jonathan Samael
 =======================================================================================================================================
 
 I'm a Front-End Developer
@@ -7,10 +8,10 @@ I'm a Front-End Developer
 I've been learning to programming since 2021, learning a little bit every day! Working with Freelance projects.
 
 *   🌍  I'm based in Brazil
-*   🖥️  See my portfolio at [Building...](http://github.com/JonathanSamael/my-portfolio)
-*   ✉️  You can contact me at [jonathansamael@live.com](mailto:jonathansamael@live.com)
+*   🖥️  See my portfolio at: [Building...](http://github.com/JonathanSamael/my-portfolio)
+*   ✉️  You can contact me at: [jonathansamael@live.com](mailto:jonathansamael@live.com)
 *   🧠  I'm learning ReactJS || NodeJS || Python
-*   ⚡  I have wonderful moments with my joystick 🕹️ 
+*   ⚡  I have wonderful moments with my joysticks 🕹️ 
 
 ### Skills
  <p align="left">
@@ -37,10 +38,9 @@ I've been learning to programming since 2021, learning a little bit every day! W
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jonathansamael"><img src="https://github-readme-stats.vercel.app/api?username=jonathansamael&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="jonathansamael's GitHub stats" /></a>
-
 <a href="http://www.github.com/jonathansamael"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathansamael&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/jonathansamael" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/jonathansamael" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathansamael&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  ***
   
   ### 🧩 Fun fact 🧩 
