@@ -10,7 +10,7 @@ I've been learning to programming since 2021, learning a little bit every day! W
 *   🌍  I'm based in Brazil
 *   🖥️  I'm looking to colaborate on open-source projects
 *   ✉️  You can contact me at: [jonathansamael@live.com](mailto:jonathansamael@live.com)
-*   🧠  I'm learning ReactJS || NodeJS || Python
+*   🧠  I'm learning Ruby || NodeJS || Python
 *   ⚡  I have wonderful moments with my joysticks 🕹️ 
 
 ### Skills
