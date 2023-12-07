@@ -5,14 +5,13 @@ My name is Jonathan Samael
 I'm a Mobile and Front-End Developer
 -------------------------
 
-I've been learning to programming since 2021, learning a little bit every day! Working with Freelance projects.
+I've been learning to programming since 2022, new discoveries every day! Working with Freelance projects.
 
-*   🌍  I'm based in Brazil
-*   🖥️  I'm looking to colaborate on open-source projects
-*   ✉️  You can contact me at: [jonathansamael@live.com](mailto:jonathansamael@live.com)
-*   To see my portfolio click here: <a href="https://samael-dev-portfolio.vercel.app">Personal Portfolio</a>
+*   🌍  Based in Brazil
+*   🖥️  Looking to colaborate on open-source projects
+*   ✉️  Contact me at: [jonathansamael@live.com](mailto:jonathansamael@live.com)
+*   Welcome to my portfolio: <a href="https://samael-dev-portfolio.vercel.app">Personal Portfolio</a>
 *   🧠  I'm learning Dart || NodeJS
-*   ⚡  I have wonderful moments with my joysticks 🕹️ 
 
 ### Skills
 <div align="left">
