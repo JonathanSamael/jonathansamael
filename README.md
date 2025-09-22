@@ -2,12 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Jonathan Samael
 =======================================================================================================================================
 
-I'm a Mobile and Front-End Developer
+I'm a Full Stack Developer
 -------------------------
 
 I've been learning to programming since 2022, new discoveries every day! Working with Freelance projects.
 
-*   🌍  Based in Brazil
+*   🌍  Based in São Paulo - Brazil
 *   🖥️  Looking to colaborate on open-source projects
 *   ✉️  Contact me at: [jonathansamael@live.com](mailto:jonathansamael@live.com)
 *   Welcome to my portfolio: <a href="https://samael-dev-portfolio.vercel.app">Personal Portfolio</a>
